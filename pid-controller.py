@@ -1,3 +1,4 @@
+## https://www.freecodecamp.org/news/basic-control-theory-with-python/
 import matplotlib.pyplot as plt
 import control as ctrl
 
